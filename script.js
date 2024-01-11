@@ -20,14 +20,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+            { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -35,14 +35,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -50,14 +50,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+           { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -65,14 +65,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -80,555 +80,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
-        ]
-    },
-    "21551A42": {
-        name: "",
-        branch: "AIML",
-        email: "",
-        semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     
@@ -637,14 +96,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -652,14 +111,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -667,14 +126,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+            { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -682,14 +141,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -697,14 +156,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -712,14 +171,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -727,14 +186,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -742,14 +201,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -757,14 +216,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -772,14 +231,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -787,14 +246,555 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+            { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+            { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+            { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
+        ]
+    },
+    "21551A42": {
+        name: "",
+        branch: "AIML",
+        email: "",
+        semesters: [
+            { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -802,14 +802,14 @@ const studentsData = {
         branch: "AIML",
         email:"",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -817,14 +817,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -832,14 +832,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -847,14 +847,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -862,14 +862,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -877,14 +877,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -892,14 +892,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -907,14 +907,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -922,14 +922,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -937,14 +937,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -952,14 +952,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -967,14 +967,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -982,14 +982,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -997,14 +997,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -1012,14 +1012,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -1027,14 +1027,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+            { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -1042,14 +1042,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -1057,14 +1057,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
     "21551A42": {
@@ -1072,14 +1072,14 @@ const studentsData = {
         branch: "AIML",
         email: "",
         semesters: [
-            { semester: 1, sgpa:  },
-            { semester: 2, sgpa:  },
-            { semester: 3, sgpa:  },
-            { semester: 4, sgpa:  },
-            { semester: 5, sgpa:  },
-            { semester: 6, sgpa:  },
-            { semester: 7, sgpa:  },
-            { semester: 8, sgpa:  }
+             { semester: 1, sgpa:8.5  },
+            { semester: 2, sgpa:8 },
+            { semester: 3, sgpa:8.9 },
+            { semester: 4, sgpa: 9.1 },
+            { semester: 5, sgpa: 8.5},
+            { semester: 6, sgpa: 0},
+            { semester: 7, sgpa: 0 },
+            { semester: 8, sgpa: 0 }
         ]
     },
 
