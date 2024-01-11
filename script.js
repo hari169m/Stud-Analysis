@@ -1111,10 +1111,11 @@ function getStudentInfo() {
 
 function calculateCGPA(semesters) {
     // Calculate the overall CGPA based on the provided semesters
-    const totalPoints = semesters.reduce((total, semester) => total + semester.sgpa, 0);
+    const totalPoints = semesters.reduce((total, semester) => total + semester.cgpa, 0);
     const cgpa = totalPoints / semesters.length;
     return cgpa.toFixed(2); // Round to two decimal places
 }
+
 
 function createCGPAGraph(semesters) {
     // Extract semester numbers and SGPA values for the chart
@@ -1141,7 +1142,7 @@ function createCGPAGraph(semesters) {
             scales: {
                 y: {
                     beginAtZero: true,
-                    max: 10.0 // Assuming the maximum SGPA is 4.0
+                    max: 10.0 // Assuming the maximum SGPA is 10.0
                 }
             }
         }
