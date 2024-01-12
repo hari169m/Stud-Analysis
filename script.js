@@ -1097,7 +1097,7 @@ function getStudentInfo() {
         resultContainer.innerHTML = `
             <p><strong>Name:</strong> ${studentInfo.name}</p>
             <p><strong>Branch:</strong> ${studentInfo.branch}</p>
-            <p><strong>Phone Number:</strong> ${studentInfo.email}</p>
+            <p><strong>Email:</strong> ${studentInfo.email}</p>
             <p><strong>CGPA:</strong> ${calculateCGPA(studentInfo.semesters)}</p>
         `;
 
