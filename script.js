@@ -1103,8 +1103,16 @@ function getStudentInfo() {
 
         // Create a bar graph for CGPA
         createCGPAGraph(studentInfo.semesters);
+        const exampleElement = document.getElementById("cgpaChart");
+
+    //  Change the display property to "none"
+        exampleElement.style.display = "block";
     } else {
         // Display an error message if student ID is not found
+        const exampleElement = document.getElementById("cgpaChart");
+
+        //  Change the display property to "none"
+        exampleElement.style.display = "none";
         resultContainer.innerHTML = "<p class='error'>Student ID not found.</p>";
     }
 }
@@ -1118,6 +1126,10 @@ function calculateCGPA(semesters) {
 
 
 function createCGPAGraph(semesters) {
+    const exampleElement = document.getElementById("cgpaChart");
+
+    //  Change the display property to "none"
+        exampleElement.style.display = "block";
     // Extract semester numbers and SGPA values for the chart
     const labels = semesters.map(semester => `Semester ${semester.semester}`);
     const data = semesters.map(semester => semester.sgpa);
