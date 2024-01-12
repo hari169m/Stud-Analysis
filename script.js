@@ -15,19 +15,19 @@ const studentsData = {
             { semester: 8, sgpa: 0 }
         ]
     },
-    "21551A42": {
-        name: "",
+    "21551A4233": {
+        name: "Hari Narayana Magam",
         branch: "AIML",
-        email: "",
+        email: "magamharinarayana21@gmail.com",
         semesters: [
-            { semester: 1, sgpa:8.5  },
-            { semester: 2, sgpa:8 },
-            { semester: 3, sgpa:8.9 },
-            { semester: 4, sgpa: 9.1 },
-            { semester: 5, sgpa: 8.5},
-            { semester: 6, sgpa: 0},
-            { semester: 7, sgpa: 0 },
-            { semester: 8, sgpa: 0 }
+            { semester: 1, sgpa:8.92  },
+            { semester: 2, sgpa:8.7 },
+            { semester: 3, sgpa:8.56 },
+            { semester: 4, sgpa: 9.45 },
+            { semester: 5, sgpa: 8.17},
+            { semester: 6, sgpa: 8},
+            { semester: 7, sgpa: 8 },
+            { semester: 8, sgpa: 8 }
         ]
     },
     "21551A42": {
@@ -1118,9 +1118,17 @@ function getStudentInfo() {
 }
 
 function calculateCGPA(semesters) {
-    // Calculate the overall CGPA based on the provided semesters
-    const totalPoints = semesters.reduce((total, semester) => total + semester.cgpa, 0);
-    const cgpa = totalPoints / semesters.length;
+    // Filter out semesters without a defined cgpa property
+    const validSemesters = semesters.filter(semester => typeof semester.sgpa === 'number');
+
+    // Check if there are valid semesters
+    if (validSemesters.length === 0) {
+        return "N/A"; // or any default value you want to return when no valid semesters are found
+    }
+
+    // Calculate the overall CGPA based on the valid semesters
+    const totalPoints = validSemesters.reduce((total, semester) => total + semester.sgpa, 0);
+    const cgpa = totalPoints / validSemesters.length;
     return cgpa.toFixed(2); // Round to two decimal places
 }
 
